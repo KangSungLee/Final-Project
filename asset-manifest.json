@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/furniture/static/css/main.3abcc4aa.css",
+    "main.js": "/furniture/static/js/main.86557270.js",
+    "static/js/206.f849acde.chunk.js": "/furniture/static/js/206.f849acde.chunk.js",
+    "static/media/carousel2.png": "/furniture/static/media/carousel2.820c2c4a76b5ee8ac58a.png",
+    "static/media/carousel1.png": "/furniture/static/media/carousel1.d26257640aa1031d4780.png",
+    "index.html": "/furniture/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3abcc4aa.css",
+    "static/js/main.86557270.js"
+  ]
+}
